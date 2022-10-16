@@ -36,7 +36,7 @@ main .mainImage {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: url(../images/mainbg.png) no-repeat center/cover;
+  background: url(../images/shohoku_02_102.jpg) no-repeat top/cover;
 }
 main .mainImage .layer {
   position: absolute;
