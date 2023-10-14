@@ -226,7 +226,6 @@ main .contact .text-area p {
 }
 main .contact form {
   margin: 70px auto 30px;
-  width: -webkit-min-content;
   width: -moz-min-content;
   width: min-content;
   text-align: left;
